@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SasolApp2</string>
+    <string name="edit_text">Enter a number</string>
+    <string name="edit_text2"> Enter a number</string>
+    <string name="button">B1</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
